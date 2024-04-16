@@ -1,8 +1,8 @@
-#StockAI
+PETER GAME
+
+StockAI
 
 Python ML model to predict the direction of tomorrows market
-
-#PETER GAME
 
 This is a machine learning tool developed to predicit the direction of the market tomorrow for a defined ticker.
 The FTSE is the current tracked index
